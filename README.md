@@ -3,5 +3,9 @@ It parses schedule data from multiple HTMLs provided by the faculty in order to 
 
 It's working for UBB Informatics year 1 english students ONLY.
 
-- will add the option to choose a different year.
+- added support for the location of the courses
+
+In developement:
+- add the option to choose a different year.
 - choices for optional courses in developement
+
