@@ -1,2 +1,7 @@
 # GCalendar-Script
-It parses data from a table and creates events on Google Calendar for each.
+It parses schedule data from multiple HTMLs provided by the faculty in order to create events in the Google Calendar and set reminders for them.
+
+It's working for UBB Informatics year 1 english students ONLY.
+
+- will add the option to choose a different year.
+- choices for optional courses in developement
